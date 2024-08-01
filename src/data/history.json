@@ -1,0 +1,13 @@
+[
+    {
+        "role": "Frontend Developer",
+        "organisation": "Freelancer",
+        "startDate": "December, 2023",
+        "endDate": "Present",
+        "experiences": [
+            "No prior work experiences",
+            "Currently still learning "
+        ],
+        "imageSrc": "skills/react.png"
+    }
+]

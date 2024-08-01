@@ -1,0 +1,36 @@
+[
+    {
+        "title": "Project A",
+        "imageSrc": "projects/projectIcon.jpg",
+        "description": "A mini User Management App.",
+        "skills": [
+            "React",
+            "Express",
+            "Node"
+        ],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+    },
+    {
+        "title": "Project B",
+        "imageSrc": "projects/projectIcon.jpg",
+        "description": "A portfolio website.",
+        "skills": [
+            "React"
+        ],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+    },
+    {
+        "title": "Project C",
+        "imageSrc": "projects/projectIcon.jpg",
+        "description": "A movie rating website.",
+        "skills": [
+            "React",
+            "Express",
+            "Node"
+        ],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+    }
+]

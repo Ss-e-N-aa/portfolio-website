@@ -1,0 +1,28 @@
+we started this app with :   
+1- setting up the app and app.module.css
+2- adding to vite.config.js : 
+css: {
+    modules: {
+      localsConvention: 'camelCase'
+    }
+}
+importing the roboto font to app.js / it didnt work if i didnt do it this way .
+creating a var.css with variables that can be used in any module.css file .
+creating a utils.js  with the getImageUrl function to append the images path of the assets folder.
+
+3- creating a components folder , 
+then creating the Navbar folder with the jsx and css files . 
+the component has a useState for the hamburger icon when the screen is smaller . 
+clicking on it will display the nav menu .
+
+4- creating Hero section folder and its jsx and css files . 
+
+5- creating About section folder and its jsx and css files .
+
+6- create a data folder with json files of (history - projects - skills ) that can be used in components.
+
+7- creating Experience section folder and its jsx and css files.
+
+8- creating Projects section folder and its jsx and css files.
+
+9- creating Contact section folder and its jsx and css files.
